@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm A P Zenhal 👋
 
-<!--
-**zenhal-ap/zenhal-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Aspiring Cloud & DevOps Engineer from Kerala, India.
 
-Here are some ideas to get you started:
+🎓 BCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Linux (RHEL)
+- AWS Cloud
+- Ansible
+- Python
+- Git & GitHub
+
+🎯 Career Goal
+To become a Cloud & DevOps Engineer by building hands-on projects in cloud computing, automation, and infrastructure.
+
+## 🛠️ Skills
+- Linux
+- AWS
+- Ansible
+- Python
+- Git
+- GitHub
+- HTML
+- CSS
+- Shell Scripting
+
+## 📚 Currently Working On
+- AWS Hands-on Labs
+- Linux Administration
+- WordPress on AWS
+- Building my Cloud & DevOps Portfolio
+
+📫 Let's connect on LinkedIn (link coming soon!)
+
+
