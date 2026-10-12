@@ -1,37 +1,45 @@
 # Hi, I'm A P Zenhal 👋
 
-## 🚀 About Me
-Aspiring Cloud & DevOps Engineer from Kerala, India.
+### Aspiring Cloud & DevOps Engineer | AWS | Linux | Ansible
 
-🎓 BCA Graduate
+I'm a BCA graduate from Kerala, India, currently building my skills in Cloud Computing, Linux System Administration, and DevOps through hands-on practice and infrastructure projects.
 
-🌱 Currently Learning
-- Linux (RHEL)
-- AWS Cloud
-- Ansible
-- Python
-- Git & GitHub
+I enjoy learning how cloud infrastructure works, automating system administration tasks, and deploying applications on Linux servers.
 
-🎯 Career Goal
-To become a Cloud & DevOps Engineer by building hands-on projects in cloud computing, automation, and infrastructure.
+## 🚀 Technical Skills
 
-## 🛠️ Skills
-- Linux
-- AWS
-- Ansible
-- Python
-- Git
-- GitHub
-- HTML
-- CSS
-- Shell Scripting
+* **Cloud:** AWS (EC2, VPC, IAM, RDS, Elastic IP)
+* **Operating Systems:** Linux, Red Hat Enterprise Linux (RHEL)
+* **Automation:** Ansible, Shell Scripting
+* **Web Servers:** Apache HTTP Server, Nginx
+* **Containers & CI/CD:** Docker, Jenkins — currently learning
+* **Version Control:** Git, GitHub
+* **Programming:** Python, HTML, CSS
 
-## 📚 Currently Working On
-- AWS Hands-on Labs
-- Linux Administration
-- WordPress on AWS
-- Building my Cloud & DevOps Portfolio
+## 🛠️ Hands-on Projects
 
-📫 Let's connect on LinkedIn (link coming soon!)
+* **WordPress on AWS:** Deployed WordPress on EC2 and practiced database integration with Amazon RDS.
+* **Ansible Automation:** Automated Linux server configuration and web server deployment using Ansible.
+* **AWS Infrastructure:** Practiced EC2 provisioning, VPC networking, security groups, and Elastic IP configuration.
+* **Linux Administration:** Practiced users and permissions, services, SSH, firewalld, SELinux, and system administration.
+* **Cloud Security Checker:** Developing a Python-based tool to check selected security configurations on AWS-hosted Linux servers.
 
+## 🌱 Currently Learning
 
+* AWS Cloud Services
+* Linux System Administration (RHEL)
+* Ansible Automation
+* Docker and Jenkins
+* Cloud Security and Infrastructure Automation
+
+## 🎯 Career Goal
+
+To grow into a Cloud & DevOps Engineer by building practical projects, improving automation skills, and learning to deploy and manage reliable, secure infrastructure.
+
+## 📫 Connect With Me
+
+* **LinkedIn:** https://linkedin.com/in/a-p-zenhal
+
+---
+
+*Learning by building. Improving through practice. Growing in Cloud & DevOps.*
